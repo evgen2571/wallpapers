@@ -1,0 +1,40 @@
+name: Generate wallpaper gallery
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'wallpapers/**'
+      - 'scripts/generate_gallery.py'
+      - 'scripts/requirements.txt'
+      - '.github/workflows/gallery.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gallery-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  gallery:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r scripts/requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/generate_gallery.py
+      - name: Commit generated changes
+        run: |
+          git add README.md .gallery/
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'docs: regenerate wallpaper gallery'
+          git push
