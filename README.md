@@ -16,6 +16,10 @@ To install somewhere else:
 curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.sh | bash -s -- ~/Pictures/Custom
 ```
 
+The installer shows downloaded bytes and transfer speed, followed by an installed
+wallpaper counter. Download percentages and time estimates depend on whether
+GitHub provides the archive size.
+
 ## Gallery
 
 <!-- GALLERY:START -->

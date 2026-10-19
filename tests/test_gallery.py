@@ -149,7 +149,7 @@ class GalleryTests(unittest.TestCase):
                 tar.add(self.root / name, arcname="wallpapers-main/" + name)
         commands = self.root / "bin"
         commands.mkdir()
-        for command in ["mktemp", "rm", "tar", "gzip", "mkdir", "cp"]:
+        for command in ["mktemp", "rm", "tar", "gzip", "mkdir", "cp", "find"]:
             (commands / command).symlink_to(shutil.which(command))
         curl = commands / "curl"
         curl.write_text('#!/bin/sh\nwhile [ "$1" != "--output" ]; do shift; done\nshift\ncp "$TEST_ARCHIVE" "$1"\n')
