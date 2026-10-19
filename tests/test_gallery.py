@@ -59,9 +59,8 @@ class GalleryTests(unittest.TestCase):
         for href, src, alt in entries:
             name = html.unescape(alt)
             self.assertEqual(href, quote("wallpapers/" + name, safe="/"))
-            with Image.open(self.root / "wallpapers" / name) as original, Image.open(self.root / src) as thumb:
-                self.assertEqual(thumb.width, 360)
-                self.assertEqual(thumb.height, round(original.height * 360 / original.width))
+            with Image.open(self.root / src) as thumb:
+                self.assertEqual(thumb.size, (384, 216))
                 self.assertEqual(thumb.format, "JPEG")
         self.assertEqual(originals, {p: p.read_bytes() for p in originals})
 
@@ -108,7 +107,29 @@ class GalleryTests(unittest.TestCase):
         for path in (self.root / ".gallery").glob("*.jpg"):
             with Image.open(path) as image:
                 sizes.append(image.size)
-        self.assertCountEqual(sizes, [(100, 200), (200, 100), (360, 180)])
+        self.assertCountEqual(sizes, [(384, 216)] * 3)
+
+    def test_previews_crop_from_center_without_modifying_originals(self):
+        cases = [
+            ((1200, 216), (408, 0, 792, 216)),
+            ((384, 1000), (0, 392, 384, 608)),
+            ((384, 384), (0, 84, 384, 300)),
+        ]
+        for index, (size, center) in enumerate(cases):
+            image = Image.new("RGB", size, "red")
+            image.paste("green", center)
+            image.save(self.root / "wallpapers" / f"{index}.png")
+        originals = {p: p.read_bytes() for p in (self.root / "wallpapers").iterdir()}
+        generate(self.root)
+        for path in (self.root / ".gallery").glob("*.jpg"):
+            with Image.open(path) as thumbnail:
+                self.assertEqual(thumbnail.size, (384, 216))
+                for point in [(10, 10), (192, 108), (373, 205)]:
+                    red, green, blue = thumbnail.getpixel(point)
+                    self.assertGreater(green, 100)
+                    self.assertLess(red, 20)
+                    self.assertLess(blue, 20)
+        self.assertEqual(originals, {p: p.read_bytes() for p in originals})
 
     def test_invalid_markers_fail_without_changing_readme(self):
         for content in ["no markers", END + START, START + START + END]:

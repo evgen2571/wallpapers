@@ -37,7 +37,7 @@ def generate(root):
     for source in sources:
         relative = source.relative_to(root).as_posix()
         # Include rendering settings so changing them invalidates cached thumbnails.
-        digest = hashlib.sha256(b"jpeg-360-q75-v1\0" + relative.encode("utf-8") + b"\0")
+        digest = hashlib.sha256(b"jpeg-384x216-center-q75-v2\0" + relative.encode("utf-8") + b"\0")
         with source.open("rb") as stream:
             for chunk in iter(lambda: stream.read(1024 * 1024), b""):
                 digest.update(chunk)
@@ -46,14 +46,15 @@ def generate(root):
         if not thumbnail.exists():
             with Image.open(source) as image:
                 image = ImageOps.exif_transpose(image)
-                width = min(360, image.width)
-                height = max(1, round(image.height * width / image.width))
-                image = image.convert("RGB").resize((width, height), Image.Resampling.LANCZOS)
+                image = ImageOps.fit(
+                    image.convert("RGB"), (384, 216), Image.Resampling.LANCZOS,
+                    centering=(0.5, 0.5),
+                )
                 image.save(thumbnail, quality=75, optimize=True)
         cells.append(
             f'    <td><a href="{quote(relative, safe="/")}">'
             f'<img src=".gallery/{thumbnail.name}" alt="{html.escape(source.name, quote=True)}" '
-            f'width="360"></a></td>'
+            f'width="384" height="216"></a></td>'
         )
 
     lines = ["", "<table>"]
