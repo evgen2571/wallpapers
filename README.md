@@ -16,8 +16,6 @@ To install somewhere else:
 curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.sh | bash -s -- ~/Pictures/Custom
 ```
 
-Running the installer again downloads the latest collection.
-
 ## Credits
 
 All rights belong to their respective creators.
