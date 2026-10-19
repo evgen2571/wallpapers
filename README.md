@@ -21,8 +21,8 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
 <!-- GALLERY:START -->
 <table>
   <tr>
-    <td><a href="wallpapers/GUWEIZ.jpg"><img src=".gallery/cf544991a25c1c0953ac80260953b873540fb5031513a97f46109c506f44483d.jpg" alt="GUWEIZ.jpg" width="360"></a></td>
-    <td><a href="wallpapers/J3PD.jpg"><img src=".gallery/8396251dd5d51c35c762d2a7a54447b6401536280c7981f372a96ada859b73bb.jpg" alt="J3PD.jpg" width="360"></a></td>
+    <td><a href="wallpapers/GUWEIZ.jpg"><img src=".gallery/44ce9431ae4bf28f583276f95802cc612443127137ecb368017fef9d70250e65.jpg" alt="GUWEIZ.jpg" width="360"></a></td>
+    <td><a href="wallpapers/J3PD.jpg"><img src=".gallery/fd11da9d7e6c8b530a23d79f7999423531054e1398bd80ebcb38a7f7939e8cf6.jpg" alt="J3PD.jpg" width="360"></a></td>
     <td><a href="wallpapers/MON-butterfly.png"><img src=".gallery/5a1fad99f119c18f6124c72eaf5dcbfb00b1f915e96c0575f2ded95121f43031.jpg" alt="MON-butterfly.png" width="360"></a></td>
   </tr>
   <tr>
@@ -41,33 +41,33 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/anime-eye.jpg"><img src=".gallery/59c26c75c9ac6864ba340f14d351482c9d5ed53b3231851c311b97a6fbfc9e77.jpg" alt="anime-eye.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/anime-field.jpg"><img src=".gallery/a9a4a6992ffa3b76e6f43247a2d77f1cc3592d55bf593dfa08383ae3292a0d1b.jpg" alt="anime-field.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-field.jpg"><img src=".gallery/9c2a4aef59f0cfdcc12b519b96ee019cca30c26ac53fac52ee4c1184e7f56eb0.jpg" alt="anime-field.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-1.jpg"><img src=".gallery/7174484f074074fdab257d59695499dc80cdc8b203347a2fd2d9d7bdc78fa7c3.jpg" alt="anime-girl-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-2.jpg"><img src=".gallery/3d4a8a8a7bac2381d7297df4c95e6db4d0018948e809a6c06ba23ddfba53113d.jpg" alt="anime-girl-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-2.jpg"><img src=".gallery/07b56273c9b181dd75c5115b56c6976090452eaa2892a380af8e525c1da6e430.jpg" alt="anime-girl-2.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/anime-girl-3.jpg"><img src=".gallery/ed118fde686cbe1b912145ef119ef42ccdec4c0226db9c338c613e60191a1de1.jpg" alt="anime-girl-3.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-3.jpg"><img src=".gallery/29339554b3270125ff3b2451abd50bd95c9bf0a6ec6c853e9acfdd5c007a08da.jpg" alt="anime-girl-3.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-4.jpg"><img src=".gallery/6a5e8f3e5496e1241cfa032888ed9c1965303ba11e028393e27ba6bbf50740d3.jpg" alt="anime-girl-4.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-black-background.png"><img src=".gallery/b7e4ce49558a6fe75a7afc10540129261b97c7323f13e1be50a8180fb9407cc8.jpg" alt="anime-girl-black-background.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-girl-broken-light.png"><img src=".gallery/9d410cbf96b1311052ae67d79c554a88769bfdab85aad94043f7829ca813c10a.jpg" alt="anime-girl-broken-light.png" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-chainsaw-man-makima.png"><img src=".gallery/ead17c4d058f390cc19b15f321c937489e8d0fafd267fbb7223efff5bf301c86.jpg" alt="anime-girl-chainsaw-man-makima.png" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-eating-toast.jpg"><img src=".gallery/e4f0bb8cc3078153939db47b919a1c26d21da3505b755ac19ec18b5e8f107f9e.jpg" alt="anime-girl-eating-toast.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-eating-toast.jpg"><img src=".gallery/884a64abfa38d8e6a590b42bc356861fa47044bcda5ff1316ae2a66f2b88a9b0.jpg" alt="anime-girl-eating-toast.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-girl-flower-field.png"><img src=".gallery/f861a87d8e4397ac07f82302880fe756a4e2451a5a5421e1bb342e6d24af6053.jpg" alt="anime-girl-flower-field.png" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-game-over.jpg"><img src=".gallery/a20cc21bc206adc09d6521f0e0d1da5e72595240b07060425c51fef3a3c31c2d.jpg" alt="anime-girl-game-over.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-game-over.jpg"><img src=".gallery/77789092f33c857f8004478acff8a363e1c8d408531fc0e3679b33e47c69a2d3.jpg" alt="anime-girl-game-over.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-green-garden.png"><img src=".gallery/b63fbe7c3308b65de3080b7f7bb97677701092c20df0f09971da58eb948b27f0.jpg" alt="anime-girl-green-garden.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-girl-in-kimono-1.jpg"><img src=".gallery/f28824079e9825c095f5b16ea841b89d821f370546f39d1cfba2e754c935c400.jpg" alt="anime-girl-in-kimono-1.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-in-kimono-2.jpg"><img src=".gallery/afede4de11331e519165146c8aab73ec952d714ee6e6e2fc3186aa48ab142be6.jpg" alt="anime-girl-in-kimono-2.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-in-sunset-field.jpg"><img src=".gallery/5f7b94f1334f6ad80aac29e90f40be92fbd201d7dd5e1e88ae6bd31759dcc72d.jpg" alt="anime-girl-in-sunset-field.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-in-sunset-field.jpg"><img src=".gallery/e86f6f76be242dab49273077b27ac2d65b833473041e02bcd399f3502a4183a5.jpg" alt="anime-girl-in-sunset-field.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-girl-minimalism-life.png"><img src=".gallery/3bbc815bfb405687579eeb2a13cedfd75cf7d1d32a9bc49a26cc9def3e3b8ce8.jpg" alt="anime-girl-minimalism-life.png" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-night-shop.jpg"><img src=".gallery/7a2ecb91cf9587c1a36c7c5fab7fa90c23630edef8ab79596d78595424122127.jpg" alt="anime-girl-night-shop.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-night-shop.jpg"><img src=".gallery/6f39c289a18f28130a9a03b13ee6548a7fa65dcdbeee071f58ab6605e0a77b8b.jpg" alt="anime-girl-night-shop.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-on-sunflowers-field.jpg"><img src=".gallery/c7bab3bd1e6f50785fa8c3f8fd123cd1c5df5062b950d687bba8b95f3fd98606.jpg" alt="anime-girl-on-sunflowers-field.jpg" width="360"></a></td>
   </tr>
   <tr>
@@ -76,12 +76,12 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/anime-girl-white-flower.png"><img src=".gallery/12d2ac25b69331273eb6e4e2dc7a6603dd5f9335b68007faa176a698daaff52a.jpg" alt="anime-girl-white-flower.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/anime-girl-with-butterfly-1.jpg"><img src=".gallery/f67ba3fdb3a15e1d5d62a5ffaeada7267501c8886a445583c0914d51336d9b04.jpg" alt="anime-girl-with-butterfly-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-with-butterfly-1.jpg"><img src=".gallery/bdebfcb7cd31c6e5f223ec0ae5c0259e91f53895e503c52e79b08c33d65ac3b2.jpg" alt="anime-girl-with-butterfly-1.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-with-butterfly-2.jpg"><img src=".gallery/250036cb29118f99efbc3f5d884100009cec2a35c8c3448b55a944c98e5ee9c3.jpg" alt="anime-girl-with-butterfly-2.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-with-butterfly-3.jpg"><img src=".gallery/c7a32f0eb2dec5596a8cbd37191a5a3568831c9daafe8c429163b4e4117ba777.jpg" alt="anime-girl-with-butterfly-3.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-with-butterfly-3.jpg"><img src=".gallery/cb4c9e127fdd5c4fb1abc75cac074c429cf39adb2068bfbddd93f0d46e09db87.jpg" alt="anime-girl-with-butterfly-3.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/anime-girl-with-camera.jpg"><img src=".gallery/f28c71f27d36b61569dd21fb791f470c430fe8617c1c9e24f0a1833acf501ca8.jpg" alt="anime-girl-with-camera.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-with-camera.jpg"><img src=".gallery/5feb171501f87bbf5ff2858b5cfb35c05b28bdc63cf7aed8bd1666252167e431.jpg" alt="anime-girl-with-camera.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-with-cat-illustration.png"><img src=".gallery/45ba7345f8912eaa09cc9d7d37fd53399b1ff870f22ead0b738a629f046d0cdf.jpg" alt="anime-girl-with-cat-illustration.png" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-with-green-eyes.jpg"><img src=".gallery/73421e7a8b026c21179f1992016ade5516bd8770003135d957eb2af98ec7a408.jpg" alt="anime-girl-with-green-eyes.jpg" width="360"></a></td>
   </tr>
@@ -96,14 +96,14 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/anime-girl-with-multicolored-eye.png"><img src=".gallery/6b5354e0c25d4e4110ca3953f25cdf49fd3ac4a10e30f57d37acd91676334a46.jpg" alt="anime-girl-with-multicolored-eye.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/anime-girl-with-purple-kimono.jpg"><img src=".gallery/37ba844c45313eec698f705d3ab445d0d9d5feb167d2ad5bdd9b1788056f664d.jpg" alt="anime-girl-with-purple-kimono.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-with-scissors.jpg"><img src=".gallery/2902f65a2a61804c16666a56451a70470d161ccdb7a9e55ddfce3759367f8419.jpg" alt="anime-girl-with-scissors.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-with-purple-kimono.jpg"><img src=".gallery/6465d45a86a5a055cb00cad056edf8d39222389e386d2bd8bc41f25905303df8.jpg" alt="anime-girl-with-purple-kimono.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-with-scissors.jpg"><img src=".gallery/ae9e1002fdbc55b757b2a0631a9c730e706e24ce5595e1b5f24e9df20bcbfe46.jpg" alt="anime-girl-with-scissors.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-with-short-hair-and-red-eyes.jpg"><img src=".gallery/bbd6d3e62baeba629dd76f874248b16f84e43798331a79ecd040a5c4c6ad9754.jpg" alt="anime-girl-with-short-hair-and-red-eyes.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-girl-with-smile.jpg"><img src=".gallery/66053b7401877fc09c4cf66222c250ee24d346181c6df0925bf90f1c2d28c979.jpg" alt="anime-girl-with-smile.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-girl-with-umbrella.jpg"><img src=".gallery/7fc390f82d835b872226afa95e3800a9c4fe0b9be662cefc8dd17fd88c92805c.jpg" alt="anime-girl-with-umbrella.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-girl-with-white-dragon.png"><img src=".gallery/9e0d4b23bbb93fd6d86c81fd3314dd562593318b8b0d205ac93e324983e1e72a.jpg" alt="anime-girl-with-white-dragon.png" width="360"></a></td>
+    <td><a href="wallpapers/anime-girl-with-white-dragon.png"><img src=".gallery/adf4d49726e4baf7ea43c0203de63c59a25cdb33721da5f5020f50e4e4d43b00.jpg" alt="anime-girl-with-white-dragon.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-homutan.png"><img src=".gallery/7f216123db181e06fa294fb3fb9012cf9682cf855c1ed3fd110b8938bb6913b3.jpg" alt="anime-homutan.png" width="360"></a></td>
@@ -117,8 +117,8 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
   </tr>
   <tr>
     <td><a href="wallpapers/anime-illustration-13.jpg"><img src=".gallery/1614cb40ff144b1a5dff951afcde6423f6090d4d5bb9f34fd4442f50cc82be55.jpg" alt="anime-illustration-13.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-illustration-14.jpg"><img src=".gallery/66594a0c798f8acd768dddf9cf36a954c855002c52ca4e8f6908c905452b4bc3.jpg" alt="anime-illustration-14.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-illustration-15.jpg"><img src=".gallery/61115191aa344f56b67b777f363ff7ad51afefd9d9430a396ac4d49310c49bc9.jpg" alt="anime-illustration-15.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-illustration-14.jpg"><img src=".gallery/b37de80395002cb6f8f2a334c1a07cd3ec43b21be52734e4d52c301101347374.jpg" alt="anime-illustration-14.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-illustration-15.jpg"><img src=".gallery/df0ae5d6746899d61f822c0ab92ab8aebb4950536603eceb063a4f8aedbe89e3.jpg" alt="anime-illustration-15.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/anime-illustration-16.jpg"><img src=".gallery/b0db2e26b5f92feef760f5cd88c35dc28bc569acdcf5037aa66824bf166b896d.jpg" alt="anime-illustration-16.jpg" width="360"></a></td>
@@ -136,8 +136,8 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/anime-illustration-8.jpg"><img src=".gallery/042671d771984ca3b844987b923b425aba5bb30cc3444dd96158ba2d08c35a8c.jpg" alt="anime-illustration-8.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/anime-illustration-9.jpg"><img src=".gallery/134669749eeb53855f9a5384257374b511f57b5cb90ad0cc3aba17ceb57cb01e.jpg" alt="anime-illustration-9.jpg" width="360"></a></td>
-    <td><a href="wallpapers/anime-illustration-cat-and-dawn.jpg"><img src=".gallery/a6ae0951d876a06d6fd256ca9002b8ea32aa7706844b2becf506b79e4ac8584f.jpg" alt="anime-illustration-cat-and-dawn.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-illustration-9.jpg"><img src=".gallery/129db83729470be8d2b6ab45d21bbaa837027c758fd71a2b2ff9d38531f66345.jpg" alt="anime-illustration-9.jpg" width="360"></a></td>
+    <td><a href="wallpapers/anime-illustration-cat-and-dawn.jpg"><img src=".gallery/0650a832aef04814eedad1a821e6a7d3e47b4ea5167f58d3b71d5c9da21ea092.jpg" alt="anime-illustration-cat-and-dawn.jpg" width="360"></a></td>
     <td><a href="wallpapers/anime-illustration-mountain.jpg"><img src=".gallery/9bdb700224ee606b339297c626da3b4b678530b9e7a9aed00c37cf672fcc4e3a.jpg" alt="anime-illustration-mountain.jpg" width="360"></a></td>
   </tr>
   <tr>
@@ -171,9 +171,9 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/arknights-amiya.png"><img src=".gallery/2503d0f203ca4e6daef0a771d65dbb285298ba07bdd2ec723ef9aa881f13466d.jpg" alt="arknights-amiya.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/arknights-astesia.jpg"><img src=".gallery/c0768417f513ae3c19d1cb2ed9f7f2c56efdd030a4abd1b01f155db59864d059.jpg" alt="arknights-astesia.jpg" width="360"></a></td>
-    <td><a href="wallpapers/arknights-dusk.jpg"><img src=".gallery/960ab3138dbd4fc66c51b3ba35e6a815c66e125e16ec1de4966c772a1a0ff618.jpg" alt="arknights-dusk.jpg" width="360"></a></td>
-    <td><a href="wallpapers/arknights-kal%27tsit.jpg"><img src=".gallery/24c92327a37474e1a1661a3a9196062470fad73f3b824d2bdda848e89c7d54aa.jpg" alt="arknights-kal&#x27;tsit.jpg" width="360"></a></td>
+    <td><a href="wallpapers/arknights-astesia.jpg"><img src=".gallery/c8e3b6596ec9d9ec9d1c884962b8150d97b6fef76a84784c32cb1578b995bab8.jpg" alt="arknights-astesia.jpg" width="360"></a></td>
+    <td><a href="wallpapers/arknights-dusk.jpg"><img src=".gallery/7ba903e0f1d315c0a583af82eecdd8c234098636401ea03413e354eb4a4ccd2b.jpg" alt="arknights-dusk.jpg" width="360"></a></td>
+    <td><a href="wallpapers/arknights-kal%27tsit.jpg"><img src=".gallery/f79ca76eeb689a0988871859470fd15ef7adad604257e157d6b495e4beb604c5.jpg" alt="arknights-kal&#x27;tsit.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/art-galaxy-whale.png"><img src=".gallery/68bbb3589345cf7a1ed0b19c8d93b216de9fa2b4e51c15c0c0c5482c6615124b.jpg" alt="art-galaxy-whale.png" width="360"></a></td>
@@ -186,34 +186,34 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/blue-archive-saori-joumae.png"><img src=".gallery/e47710a9a425bb8402f93f7f2c3e2f70e979062866d727a2fd1d1934762f1598.jpg" alt="blue-archive-saori-joumae.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/bocchi-the-rock-1.jpg"><img src=".gallery/f2424ecb109a34bd8c8dce8ec7e236dca982aa65f070d79e4c28f34a3e56a057.jpg" alt="bocchi-the-rock-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-2.jpg"><img src=".gallery/e8cf27ff146a06ecdc8e35b6ef53100770c9d3367593c32b7e58791f0777dcd3.jpg" alt="bocchi-the-rock-2.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-3.jpg"><img src=".gallery/761b59a8937275080115c2210f39e616f0be2a74a20cacb6c41ce4444b0a22ac.jpg" alt="bocchi-the-rock-3.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-1.jpg"><img src=".gallery/9e9e8743da7bf3fba36e6619fb0377913501899b5a6d4a592f0c11ec9bd2f3af.jpg" alt="bocchi-the-rock-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-2.jpg"><img src=".gallery/80e695eec5486fb6f4258733f88770cf5518cfc2b125ecfd9042966fd2e79b2d.jpg" alt="bocchi-the-rock-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-3.jpg"><img src=".gallery/7da7ec16f8cb7757dbf07b9c6fbaf7e5ee9f4b2f6813103b2d57e4111ea6ed0a.jpg" alt="bocchi-the-rock-3.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/bocchi-the-rock-4.jpg"><img src=".gallery/b75966cd6855901490d6171a6eddbbe7fa42708a9451edbc553c01f6b1c49755.jpg" alt="bocchi-the-rock-4.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-bochi-1.jpg"><img src=".gallery/bce89e772bd416950daa4f60b22851db1519fe1670eb608fc2dedaf78f20f6b5.jpg" alt="bocchi-the-rock-bochi-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-bochi-2.jpg"><img src=".gallery/1df35be63b484b0822513ec09d43cd57f5676008bc9befe8f5eed99ee7c06b8f.jpg" alt="bocchi-the-rock-bochi-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-bochi-1.jpg"><img src=".gallery/d4e4f8d15567312049238fc1301e7d2041bd13090fc46935b941b2bedd198fe1.jpg" alt="bocchi-the-rock-bochi-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-bochi-2.jpg"><img src=".gallery/c32c608269c994cf8af4c796564cba66feeab2dc2530dd35e18d9f3acef23657.jpg" alt="bocchi-the-rock-bochi-2.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/bocchi-the-rock-bochi-3.jpg"><img src=".gallery/f2ef92b6ef663ace11a5c1c1ad8f6d2aa7da39325e6e58d6b49adc47b630da02.jpg" alt="bocchi-the-rock-bochi-3.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-bochi-4.jpg"><img src=".gallery/ae2e73eed1cdf87a7b8870cda5af931662900c3d6622529391e693fc9a2a65e2.jpg" alt="bocchi-the-rock-bochi-4.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-kita-ikuyo-1.jpg"><img src=".gallery/98ae48bd9a62e1881dc49b7beacbf0ac266abc1b0cc6d239fcf48d1f279befc8.jpg" alt="bocchi-the-rock-kita-ikuyo-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-bochi-3.jpg"><img src=".gallery/e77d11af6bbcca21241356681b3aec6b8c5ec68879cf3921076cdaedc24f8ce5.jpg" alt="bocchi-the-rock-bochi-3.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-bochi-4.jpg"><img src=".gallery/21e2613a21628fae07bc7892530708f9a2625624b2321716319670aa0191b4b5.jpg" alt="bocchi-the-rock-bochi-4.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-kita-ikuyo-1.jpg"><img src=".gallery/2c2b2409abb999c94e51e967d5f267147ec015f7f19337362ba7a0940fd599db.jpg" alt="bocchi-the-rock-kita-ikuyo-1.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/bocchi-the-rock-kita-ikuyo-2.jpg"><img src=".gallery/137b142c93e5b0533d9a1266830e1298c0c26d3f92b019038defce98421cfa65.jpg" alt="bocchi-the-rock-kita-ikuyo-2.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-ryo-yamada-1.jpg"><img src=".gallery/c577859c0bd3ce8cb83162b5d7c37fd464bac587db95087b3b4b9af5b459e5c3.jpg" alt="bocchi-the-rock-ryo-yamada-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/bocchi-the-rock-ryo-yamada-2.jpg"><img src=".gallery/84180b0ffb3a030b1aaea5ccc3597c13767b83e88ee20a7d5fa778e0942e3523.jpg" alt="bocchi-the-rock-ryo-yamada-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-kita-ikuyo-2.jpg"><img src=".gallery/0305d3f271abd85b92274b2de8c11e6c3366a97a9fe8d2c2a5e35782fcd26156.jpg" alt="bocchi-the-rock-kita-ikuyo-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-ryo-yamada-1.jpg"><img src=".gallery/2a5fc251114c6644fa49b9a73a9dd43e1df9a855d16bc1820c0f95b7b11d3cc0.jpg" alt="bocchi-the-rock-ryo-yamada-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/bocchi-the-rock-ryo-yamada-2.jpg"><img src=".gallery/551d3043765d4b416a2b4ea7fe2ffbd0ebe61865edde90fa36901559576ee336.jpg" alt="bocchi-the-rock-ryo-yamada-2.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/catzz.jpg"><img src=".gallery/f1a9b4ce3a3d7dc03ca6569cf774a098484ffb114c6db06da0b7e129f128a29f.jpg" alt="catzz.jpg" width="360"></a></td>
+    <td><a href="wallpapers/catzz.jpg"><img src=".gallery/d6dffb11f6a17537051dc6919d1502e2d59f1ef9733a35e21251fe809e7a842b.jpg" alt="catzz.jpg" width="360"></a></td>
     <td><a href="wallpapers/chainsaw-man-reze-pochita.jpg"><img src=".gallery/44bb199ca39b21b6b4ecee49f7c72b5bc5c8553ea94b75fac5062ae086351127.jpg" alt="chainsaw-man-reze-pochita.jpg" width="360"></a></td>
     <td><a href="wallpapers/city.png"><img src=".gallery/d276f86fa80aaea20b0d0ae9ac1de7b39b8e02086dbe219bf2601032264d072e.jpg" alt="city.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/colorful-eyes.jpg"><img src=".gallery/695baaa19c63abbeaf0c4263ed396f6173eb27903b9ef8a6fdc526e70830de9d.jpg" alt="colorful-eyes.jpg" width="360"></a></td>
-    <td><a href="wallpapers/cozy-winter-night.jpg"><img src=".gallery/93ee046fa636a4f5c8baa2736b5f488ff4641c222763f9eda17094840d6c28f0.jpg" alt="cozy-winter-night.jpg" width="360"></a></td>
-    <td><a href="wallpapers/cyberpunk-edgerunners-lucy.jpg"><img src=".gallery/7cacb6b4e906f6656c4945edad9f57cb73dbf716483ce85373331f3f060ecde3.jpg" alt="cyberpunk-edgerunners-lucy.jpg" width="360"></a></td>
+    <td><a href="wallpapers/colorful-eyes.jpg"><img src=".gallery/c4d9ceb0305abcf1da5d9ee6957cd48f72e4ecb619e35e92b55c5661ca6f842e.jpg" alt="colorful-eyes.jpg" width="360"></a></td>
+    <td><a href="wallpapers/cozy-winter-night.jpg"><img src=".gallery/39414cfc7fa46c195a59f622abeb17b4de260caec00919c8044b57a88b8fe3be.jpg" alt="cozy-winter-night.jpg" width="360"></a></td>
+    <td><a href="wallpapers/cyberpunk-edgerunners-lucy.jpg"><img src=".gallery/025434bc63083c6997132fa624fe2d3da0ee08bf1e04cae8a6a67038ca52b525.jpg" alt="cyberpunk-edgerunners-lucy.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/digital-art-console-in-forest.png"><img src=".gallery/c36f0a972511a803a6f365696777bbe195fd6ca57454ce351495c83a6c01d6af.jpg" alt="digital-art-console-in-forest.png" width="360"></a></td>
@@ -221,9 +221,9 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/elden-ring-melina.jpg"><img src=".gallery/5301cc2992295c8fa882ef80c38e68fbf36ae6541f0dea36bc69d9c39d701eb2.jpg" alt="elden-ring-melina.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/evangelion-asuka-1.jpg"><img src=".gallery/63261fb150e0a485c092eb6c1afb9118d82dc6d7402b812fbc8195dbc28911ed.jpg" alt="evangelion-asuka-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/evangelion-asuka-1.jpg"><img src=".gallery/46c760421683e1cb1865e292896e6e06e11b9322077a102c961a4c062aea1ed5.jpg" alt="evangelion-asuka-1.jpg" width="360"></a></td>
     <td><a href="wallpapers/evangelion-asuka-2.jpg"><img src=".gallery/8576eaa7588b706ee2c2f0eb86c07374fea9802f41a93f143f263eb6d2ff385d.jpg" alt="evangelion-asuka-2.jpg" width="360"></a></td>
-    <td><a href="wallpapers/evangelion-asuka-and-rei.jpg"><img src=".gallery/8f4c5ecc6c22030ebcfbd9c8f8eafa270ef52f2ab434c1b1818949192c0d5c59.jpg" alt="evangelion-asuka-and-rei.jpg" width="360"></a></td>
+    <td><a href="wallpapers/evangelion-asuka-and-rei.jpg"><img src=".gallery/84602a7139cd2ae8af80177b1a38229071994083ae92b73e8282705c864da63b.jpg" alt="evangelion-asuka-and-rei.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/evangelion-ayanami-rei.png"><img src=".gallery/e22c83ba218b8bf5fa1ff7e50181ee8ce57c18b42a219e06c41b301c526da9cb.jpg" alt="evangelion-ayanami-rei.png" width="360"></a></td>
@@ -233,32 +233,32 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
   <tr>
     <td><a href="wallpapers/fantasy-tree.jpg"><img src=".gallery/280a05334aca8e9f47c5ae5a190eafa16be89a42297c4023896efe6b0dad2780.jpg" alt="fantasy-tree.jpg" width="360"></a></td>
     <td><a href="wallpapers/far-from-tomorrow-aenami.jpg"><img src=".gallery/75f1d9a2f49a53079e84ac508da060cad0d9d7d256ab811f74e18e3d6f2e8b09.jpg" alt="far-from-tomorrow-aenami.jpg" width="360"></a></td>
-    <td><a href="wallpapers/fate-francesca-prelati.jpg"><img src=".gallery/6b4d8f917924f9dd3ca2ffd3322605494ed3c7db90f12d1e528073619ffa83ab.jpg" alt="fate-francesca-prelati.jpg" width="360"></a></td>
+    <td><a href="wallpapers/fate-francesca-prelati.jpg"><img src=".gallery/0771bcbd36bf0daf06fc4312c3db2d76f9f98fd208e2792626ce1e73a15b208d.jpg" alt="fate-francesca-prelati.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/fish.jpg"><img src=".gallery/a400fdd059eb93086ed080fd337334a2d33c96611ba9ceb5f61492eb4f7e4bc8.jpg" alt="fish.jpg" width="360"></a></td>
-    <td><a href="wallpapers/forest.jpg"><img src=".gallery/88baa4ef54ceb37b5360e239270e0009cbe0e55faaa7ae7fb316138601b10807.jpg" alt="forest.jpg" width="360"></a></td>
-    <td><a href="wallpapers/genshin-impact-ayaka.jpg"><img src=".gallery/fabf361fd25270b000a690aaa96e80538fc6410375c9aef7446a7660ffda6cd4.jpg" alt="genshin-impact-ayaka.jpg" width="360"></a></td>
+    <td><a href="wallpapers/forest.jpg"><img src=".gallery/568c4fdf0d6de367258736ece95b97b4ec7b35c8ca3899e9eaf2015aa4eb82ec.jpg" alt="forest.jpg" width="360"></a></td>
+    <td><a href="wallpapers/genshin-impact-ayaka.jpg"><img src=".gallery/132b83f9559cdcd88bb7ebba8dd46fd8ee0ed7d6187787a1750147f176ed0ba5.jpg" alt="genshin-impact-ayaka.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/genshin-impact-ganyu-with-kequing.jpg"><img src=".gallery/a1f57d006dcba5f2e1542dd79190da49efd18f56ee56731a3bf6a479c25d298e.jpg" alt="genshin-impact-ganyu-with-kequing.jpg" width="360"></a></td>
-    <td><a href="wallpapers/genshin-impact-hu-tao.jpg"><img src=".gallery/75a8a7c544b1ce5ec63c97211af8cd604dd731029f222d40aef62e3155f45c87.jpg" alt="genshin-impact-hu-tao.jpg" width="360"></a></td>
+    <td><a href="wallpapers/genshin-impact-ganyu-with-kequing.jpg"><img src=".gallery/722f85a61626579afdc0ec5f4a656978f43aad70109e85e596cb3061d1851886.jpg" alt="genshin-impact-ganyu-with-kequing.jpg" width="360"></a></td>
+    <td><a href="wallpapers/genshin-impact-hu-tao.jpg"><img src=".gallery/9fde48a07ff68fe55b09d7ec528aafa4365df274f2830807896cdcbf91a3374e.jpg" alt="genshin-impact-hu-tao.jpg" width="360"></a></td>
     <td><a href="wallpapers/genshin-impact-hu-tao.png"><img src=".gallery/fbad590893c47e4fd468d4d199a73353643885c9bc0fd4d5bc58d80f9f290440.jpg" alt="genshin-impact-hu-tao.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/genshin-impact-lumine-noelle.png"><img src=".gallery/bd6ca2ccb27aefa1227f5f478a86331ac19261bb4ac6ca93a64e93c547a70b3c.jpg" alt="genshin-impact-lumine-noelle.png" width="360"></a></td>
-    <td><a href="wallpapers/genshin-impact-lumine-piano.jpg"><img src=".gallery/5ae569d1c22f2f097218c3935938448d6ba91e35bbd95773ce83884bb8bb9e73.jpg" alt="genshin-impact-lumine-piano.jpg" width="360"></a></td>
+    <td><a href="wallpapers/genshin-impact-lumine-piano.jpg"><img src=".gallery/2baf8ed0e3923157bf1f7d2e523c62fca4c4a64a470ab467cbb97736eef0d9a6.jpg" alt="genshin-impact-lumine-piano.jpg" width="360"></a></td>
     <td><a href="wallpapers/genshin-impact-nahida.jpg"><img src=".gallery/0c85f3798ad2752499ad0d127044577df88afe96e77a913d6c27badae57c10de.jpg" alt="genshin-impact-nahida.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/genshin-impact-ronova.png"><img src=".gallery/5b34fbfa183155ba13863d046f100138888605702e2f38176f93426ea8a188c2.jpg" alt="genshin-impact-ronova.png" width="360"></a></td>
-    <td><a href="wallpapers/genshin-impact-yae-miko.jpg"><img src=".gallery/9db93b3b043261e337fc9f84234f4d2af34587aafc640519aac9fb965c8ef95f.jpg" alt="genshin-impact-yae-miko.jpg" width="360"></a></td>
+    <td><a href="wallpapers/genshin-impact-yae-miko.jpg"><img src=".gallery/f35a4f4b5171ce809d10106972dc6a14a87a4d96ec011f8858791bc4e0761468.jpg" alt="genshin-impact-yae-miko.jpg" width="360"></a></td>
     <td><a href="wallpapers/hands.jpg"><img src=".gallery/feb4cc1ed42eda73810025bcee3ef8bdf35c9f5c1888a6624926494ae852e85a.jpg" alt="hands.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/hatsune-miku-1.jpg"><img src=".gallery/e8d15c37cbaedb3ccd755ce970beff991089588d7d0918673b530058f3ad0544.jpg" alt="hatsune-miku-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/hatsune-miku-10.jpg"><img src=".gallery/a26cca844f62134f31a3e2eb5e85d69fe76b3849271c998aeb269a74e1f4f440.jpg" alt="hatsune-miku-10.jpg" width="360"></a></td>
-    <td><a href="wallpapers/hatsune-miku-11.jpg"><img src=".gallery/d9156a222ef9d6c517922fd99391bde884139103c96d6a09b52efcc68e0982c6.jpg" alt="hatsune-miku-11.jpg" width="360"></a></td>
+    <td><a href="wallpapers/hatsune-miku-10.jpg"><img src=".gallery/2be64c52b28bd4a280a33a4f22d746caacd7f7a495874ead83c95e8a236ec8d2.jpg" alt="hatsune-miku-10.jpg" width="360"></a></td>
+    <td><a href="wallpapers/hatsune-miku-11.jpg"><img src=".gallery/1e0e0b45835ace3b97bf9f41ad9e63967fd6e0c818e3f4a25c3b339133c8c55e.jpg" alt="hatsune-miku-11.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/hatsune-miku-12.png"><img src=".gallery/a4b51315eeab5f11782f634a8364995f09cf0294ec136d93ba8daedfa6c45bca.jpg" alt="hatsune-miku-12.png" width="360"></a></td>
@@ -272,13 +272,13 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
   </tr>
   <tr>
     <td><a href="wallpapers/hatsune-miku-7.png"><img src=".gallery/c6d3e20ae4cb969cb92ea7aeb0c12a47201a90dafc67f705c97da804713d3e25.jpg" alt="hatsune-miku-7.png" width="360"></a></td>
-    <td><a href="wallpapers/hatsune-miku-8.jpg"><img src=".gallery/92d5ca712439feaebbf0214478632a062672c4937ab88c097e016a211b3047ab.jpg" alt="hatsune-miku-8.jpg" width="360"></a></td>
+    <td><a href="wallpapers/hatsune-miku-8.jpg"><img src=".gallery/ffdbbf41d7d319de54602de1da585785e2c8fdb705e7dd59933fb75271b58db2.jpg" alt="hatsune-miku-8.jpg" width="360"></a></td>
     <td><a href="wallpapers/hatsune-miku-9.jpg"><img src=".gallery/2557668559744b4c34a8529e89d787c99eb28695be0e4ec5306623a444fbb587.jpg" alt="hatsune-miku-9.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/hightech-cosmos.jpg"><img src=".gallery/8e08178fa0cf96106c7f358d0e5895644e693281fd4b711cc07c367067d5cee0.jpg" alt="hightech-cosmos.jpg" width="360"></a></td>
-    <td><a href="wallpapers/himura-kenshin.jpg"><img src=".gallery/62ee73803ef78091f7a0edf53888090da0f38d7e5a909404307837ab4ab70926.jpg" alt="himura-kenshin.jpg" width="360"></a></td>
-    <td><a href="wallpapers/hmmmm-peak.jpg"><img src=".gallery/62a3bd2a87d68369807cd72a20cb66e21c3252becb4438a93754681eae3f7f31.jpg" alt="hmmmm-peak.jpg" width="360"></a></td>
+    <td><a href="wallpapers/himura-kenshin.jpg"><img src=".gallery/c91c777a2afc50fded925774717271f3583db2932b0a2a2c05b730e25e0e5211.jpg" alt="himura-kenshin.jpg" width="360"></a></td>
+    <td><a href="wallpapers/hmmmm-peak.jpg"><img src=".gallery/3071c6eabef3867ac9cb953dde01a4a3c26facddcb228f4a7ea75e013149bdc7.jpg" alt="hmmmm-peak.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/honkai-star-rail-castorice.jpg"><img src=".gallery/e90458b905fb159a085c297026ccbcbb42cb279599963b3f69b3ecb8015b7245.jpg" alt="honkai-star-rail-castorice.jpg" width="360"></a></td>
@@ -288,27 +288,27 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
   <tr>
     <td><a href="wallpapers/honkai-star-rail-herta.png"><img src=".gallery/f9f201f504d678a628500ea4a36c20035634ab803b3987d851270c7ab361dc8d.jpg" alt="honkai-star-rail-herta.png" width="360"></a></td>
     <td><a href="wallpapers/honkai-star-rail-pearl.png"><img src=".gallery/a85aa740d351f45c3d1cac7360fc27fef67f61d74dcd42214dbde009b32bbe8e.jpg" alt="honkai-star-rail-pearl.png" width="360"></a></td>
-    <td><a href="wallpapers/honkai-star-rail-sparkle.jpg"><img src=".gallery/4ab87d78124949b0bb457c3ee99a0f27d64d289ccb73cdc5e919ec45043c0e81.jpg" alt="honkai-star-rail-sparkle.jpg" width="360"></a></td>
+    <td><a href="wallpapers/honkai-star-rail-sparkle.jpg"><img src=".gallery/5a9e540de719a8a731aef57e6e9223bf0e64f88ba6dc0a78f0f5df3337f062b1.jpg" alt="honkai-star-rail-sparkle.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/horizon-zero-dawn-night.png"><img src=".gallery/269289f92ecbc65de2263dab26a8a91d4fd54e8656708f5db1d4f19f0458d094.jpg" alt="horizon-zero-dawn-night.png" width="360"></a></td>
-    <td><a href="wallpapers/hyde-summer.jpg"><img src=".gallery/d706ba08b71d58380fbca7cf3c99a9d2b6a464ca8551c0ccbad78669a507bd5a.jpg" alt="hyde-summer.jpg" width="360"></a></td>
-    <td><a href="wallpapers/illustration-planets.jpg"><img src=".gallery/e4264d04443e8d02eeb7be03ad91f4fa3c042f0cc9c7dcd75c0e13fe613041c1.jpg" alt="illustration-planets.jpg" width="360"></a></td>
+    <td><a href="wallpapers/hyde-summer.jpg"><img src=".gallery/bdb763c542ae31da061c70c5f37d9ab937fbcb9a5c60cb26d9ff5ecd3c95642c.jpg" alt="hyde-summer.jpg" width="360"></a></td>
+    <td><a href="wallpapers/illustration-planets.jpg"><img src=".gallery/70ec083f5c93ff407459e16f5c51aae0160fba28d24cb7c72e8e3a23cce4b13e.jpg" alt="illustration-planets.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/illustration-wizard-and-dragon.jpg"><img src=".gallery/93f4424ef9178b07f3cd0a31d19f35c4041c617c015e9c3cde29972e67bbe72f.jpg" alt="illustration-wizard-and-dragon.jpg" width="360"></a></td>
-    <td><a href="wallpapers/ilya-kuvshinov.jpg"><img src=".gallery/89608f001f5ff1a920909229f2c8029d35824341230ea758730d39dc4e7e8c76.jpg" alt="ilya-kuvshinov.jpg" width="360"></a></td>
-    <td><a href="wallpapers/isekai-quartet.jpg"><img src=".gallery/2d369c73d888c2ea703f346245018f07e3197c779d0b3fe39e045706e8bf1496.jpg" alt="isekai-quartet.jpg" width="360"></a></td>
+    <td><a href="wallpapers/ilya-kuvshinov.jpg"><img src=".gallery/bbf7fba05c23d9e83270579fa373684e86930c33c2b2b31e142a0b63eb5984d1.jpg" alt="ilya-kuvshinov.jpg" width="360"></a></td>
+    <td><a href="wallpapers/isekai-quartet.jpg"><img src=".gallery/4482c56b565993da65f5dfa33568d387df8b7c9f5eb539f37f749cc09738d2e3.jpg" alt="isekai-quartet.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/isekaijoucho-1.jpg"><img src=".gallery/d6d200dbc503568c22be49738d467b3e46704bfe1f74aee5c4771bff7e33ea97.jpg" alt="isekaijoucho-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/isekaijoucho-2.png"><img src=".gallery/28b3374927af618c689438d95c1f2fd2eb31173e69f34163399e2e860d80da74.jpg" alt="isekaijoucho-2.png" width="360"></a></td>
-    <td><a href="wallpapers/isekaijoucho-3.png"><img src=".gallery/f98cb2faf88a4acb1b1c806e7f9f0f8950d71453056909a1a99c8e3d4702efa5.jpg" alt="isekaijoucho-3.png" width="360"></a></td>
+    <td><a href="wallpapers/isekaijoucho-1.jpg"><img src=".gallery/b089d25048f13242458c9a3e0dd1fc3c025166e7ccbd4658b90f495a9bf1e1c6.jpg" alt="isekaijoucho-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/isekaijoucho-2.png"><img src=".gallery/fd86acdee95f509de34c7cdcb1b87befef3d0e4070c9af419dbe625affb19d89.jpg" alt="isekaijoucho-2.png" width="360"></a></td>
+    <td><a href="wallpapers/isekaijoucho-3.png"><img src=".gallery/708d9b89b255fbbac0eadc324c7871dad93c3c7f94b032d15cfeff9859cb972a.jpg" alt="isekaijoucho-3.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/kimetsu-no-yaiba-in-forest.jpg"><img src=".gallery/8015edc665451a11ac738ed80bce056c90d2e8ff265dcb7bd77d1f6ff0bd36f9.jpg" alt="kimetsu-no-yaiba-in-forest.jpg" width="360"></a></td>
     <td><a href="wallpapers/konya_karasue-ast-luna-chan.png"><img src=".gallery/11a33daa03346d377811928107a247f5416ba593f4f3ac631f7d40afb15ac707.jpg" alt="konya_karasue-ast-luna-chan.png" width="360"></a></td>
-    <td><a href="wallpapers/konya_karasue-kaf.jpg"><img src=".gallery/9ed164b49375833233ebe737bb7c749d8ad38d82b0327a774c854082f234d9ac.jpg" alt="konya_karasue-kaf.jpg" width="360"></a></td>
+    <td><a href="wallpapers/konya_karasue-kaf.jpg"><img src=".gallery/62e96f206f83d67e3ac1f0ef74c51d6830983a25fb9855b440050ff22fad86f9.jpg" alt="konya_karasue-kaf.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/landscape-sakura.jpg"><img src=".gallery/cfe0c0ec9b251fc310b7c7624cc9b8a6e910c57d6ec3409eb2da9f8968ed25af.jpg" alt="landscape-sakura.jpg" width="360"></a></td>
@@ -321,9 +321,9 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/miraie-give-up.jpg"><img src=".gallery/9d23eb6221574470eb048f2c2bff8cffe1aed1437a0ccb7e1deb59b51e77e214.jpg" alt="miraie-give-up.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/monochrome-wataboku.jpg"><img src=".gallery/d55bc00f7efc896f963f3853931c3aa6c59d2a1754be0e327a7937838cb4ae8b.jpg" alt="monochrome-wataboku.jpg" width="360"></a></td>
+    <td><a href="wallpapers/monochrome-wataboku.jpg"><img src=".gallery/df4b5daea03a7aa94c42b4307b6399f71eafe9d25d515039670e0cd2211afa2e.jpg" alt="monochrome-wataboku.jpg" width="360"></a></td>
     <td><a href="wallpapers/mushoku-tensei-eris.png"><img src=".gallery/529bc3645a33d8abb08793eda97b93603addd6e31404cade8a8999283d3bfb2a.jpg" alt="mushoku-tensei-eris.png" width="360"></a></td>
-    <td><a href="wallpapers/mushoku-tensei-roxy.jpg"><img src=".gallery/12d489bd9a6cd50fda64631ed94c553d8ab5136ad76e2d0c6e31555a4cfe24ad.jpg" alt="mushoku-tensei-roxy.jpg" width="360"></a></td>
+    <td><a href="wallpapers/mushoku-tensei-roxy.jpg"><img src=".gallery/61363bd2f04752fc9b15fb413ec167cc2a2b0956412c9ee945ce971de17752ef.jpg" alt="mushoku-tensei-roxy.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/nekota-tsuna.png"><img src=".gallery/877b5ea3d1c1187a6f32099a6547d42ad8d72c3b8140351a8cccbda4b4bbc40e.jpg" alt="nekota-tsuna.png" width="360"></a></td>
@@ -331,33 +331,33 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/night-city-girl.png"><img src=".gallery/f77c46eb889509ee6968b7d2260d6d380d7b6bcf0cd17b4d037741860e1fb2d4.jpg" alt="night-city-girl.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/night-city-with-silhouette-1.jpg"><img src=".gallery/2252ea9dd9cb5329d97debd72e478f3bf38ad5d4507e960183dbde5927d0edf4.jpg" alt="night-city-with-silhouette-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/night-city-with-silhouette-1.jpg"><img src=".gallery/35ac6d32291fdaefd4c4a88610fc33caa2a7231c31ef99916934de8f6d4ff9e9.jpg" alt="night-city-with-silhouette-1.jpg" width="360"></a></td>
     <td><a href="wallpapers/night-city-with-silhouette-2.jpg"><img src=".gallery/414476c020fb738286399e69d3fdae5ce54c67dd0935ffffb1402ae63fce2fb3.jpg" alt="night-city-with-silhouette-2.jpg" width="360"></a></td>
-    <td><a href="wallpapers/omutatsu.jpg"><img src=".gallery/d4d87f62b63cb86ea2b2a32b6ac89c61bfca0bd45e5f4e28eb8fb0db88f314e5.jpg" alt="omutatsu.jpg" width="360"></a></td>
+    <td><a href="wallpapers/omutatsu.jpg"><img src=".gallery/17dd7579089f62d59e870773e387ea0174e9249830710953122905a1ea4ddc6b.jpg" alt="omutatsu.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/oshino-shinobu.jpg"><img src=".gallery/be4af8b1870cf3f2f8923a04d7cfcf93dc7874365a24e90a7eb46c20a494f81a.jpg" alt="oshino-shinobu.jpg" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-1.png"><img src=".gallery/25c64810d9942a72e8f6470da4953fd5dbbbd26f7ec746e6d2c1e183a9e1e704.jpg" alt="osu!-background-1.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-10.jpg"><img src=".gallery/4b71fbd8d8bf00c8b94a7b0915f9c9c21172774b13beee9325141898d44452a5.jpg" alt="osu!-background-10.jpg" width="360"></a></td>
+    <td><a href="wallpapers/oshino-shinobu.jpg"><img src=".gallery/2799a0e07aa7676b9f4489b2ed10f539305591dbb089707096eb2faca44744ae.jpg" alt="oshino-shinobu.jpg" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-1.png"><img src=".gallery/377a1dd92cc2f429e6910eea67d745d5c9f2285ac83253bf99282b535191a673.jpg" alt="osu!-background-1.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-10.jpg"><img src=".gallery/fe49bbb655421a2e2e11096fbdaec1b8db8316f98ed129974d413e6de0a733f5.jpg" alt="osu!-background-10.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/osu%21-background-11.png"><img src=".gallery/7f9349136aa84e6688d169d3f681e7e3762b2557325e6e636629b4238630045d.jpg" alt="osu!-background-11.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-12.png"><img src=".gallery/d603dfb071dc0057826b8a9f2c82f3494af008a06f5d4eaf871ae198bc8dd3be.jpg" alt="osu!-background-12.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-13.png"><img src=".gallery/30b8f38a1dae73e8f50ed03f4d305eaaaf3a5da505046b5b92bc0134d8dacea4.jpg" alt="osu!-background-13.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-11.png"><img src=".gallery/4d46a67952768928328d1634e8653adf06b43f866fb15fe76267fcfbcd2c0161.jpg" alt="osu!-background-11.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-12.png"><img src=".gallery/cba04c744a0b6e11486eaa3ee7e6671ae145e0c0539347f11405eb0558605d0d.jpg" alt="osu!-background-12.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-13.png"><img src=".gallery/a28bbcc925efe5be4a8ba56977af8f578951c116c8fc511194eafe8c08df76b9.jpg" alt="osu!-background-13.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/osu%21-background-2.png"><img src=".gallery/8d00b84be4902286a7a79ed957d5cf2ef065ed65ab13c916a0d180b8272be203.jpg" alt="osu!-background-2.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-3.png"><img src=".gallery/c626bf3bd8a0bea847dbb9eabf4124fc828d25e33018cac67493eda6ed44fda0.jpg" alt="osu!-background-3.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-4.png"><img src=".gallery/a92ada6c2f895fc4e287452dce64cf3b68615831d4ba530a324b5dbc9560a50c.jpg" alt="osu!-background-4.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-2.png"><img src=".gallery/b27f819913b4e7b10f25ffaefeb90850c8363eeb745440e338198620b889a655.jpg" alt="osu!-background-2.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-3.png"><img src=".gallery/84dab0767ddcda1c8f9baebac51f79972de17accde1cf705dbd9684939bf8a37.jpg" alt="osu!-background-3.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-4.png"><img src=".gallery/9b3e25a39802699da85da391b83f6d2fa6c9bfea89e9aa4d754d83fcc4825a07.jpg" alt="osu!-background-4.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/osu%21-background-5.jpg"><img src=".gallery/a6787a78cd1561f481db56ad9e1ccc808acc7289b07306ef3c20c6038579a25d.jpg" alt="osu!-background-5.jpg" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-6.png"><img src=".gallery/66552ba71fdb3357fa510b0331ca59cf29f0e44a9b683aadd414c9b5a762603c.jpg" alt="osu!-background-6.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-7.png"><img src=".gallery/c475dace7313e80b55ba711ed78d196e4e16c3bdd6525a9f574980d22baf1699.jpg" alt="osu!-background-7.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-5.jpg"><img src=".gallery/6ca237b3b523a0a554179eeb01fca2a27f020af160471b026e9795c87025a8db.jpg" alt="osu!-background-5.jpg" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-6.png"><img src=".gallery/5d778fe43663afa7a4b9e4ee3dadb4c44347f280565a3ba8fdc9ec7d0f44638a.jpg" alt="osu!-background-6.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-7.png"><img src=".gallery/91b7e8b7c6acc374cffddba7053debd75e6cadbfcab882f0aeed65f140527f84.jpg" alt="osu!-background-7.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/osu%21-background-8.png"><img src=".gallery/0e854e20abd41e1df144f31f55b0b93fa667a15eb99ff8e679e1224e7ef1b741.jpg" alt="osu!-background-8.png" width="360"></a></td>
-    <td><a href="wallpapers/osu%21-background-9.png"><img src=".gallery/0fbabf5215da2d4cb90a6d44e692cedcd8f538fe12968ae26c56d175c6e2ed01.jpg" alt="osu!-background-9.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-8.png"><img src=".gallery/b926f625577e457b478abf2dc7e18ec8e1248d1324d693d7ad816057cb716f51.jpg" alt="osu!-background-8.png" width="360"></a></td>
+    <td><a href="wallpapers/osu%21-background-9.png"><img src=".gallery/2c25649bbd5c26d6a625ccb32f2d25950e0aba33ec21e0378ae01471a7d77e6f.jpg" alt="osu!-background-9.png" width="360"></a></td>
     <td><a href="wallpapers/painting-landscape.jpg"><img src=".gallery/893452c3daf4decde8d8efe9f47c5afb9ce016cb0a3b3164a4dbb333a0c0b3bb.jpg" alt="painting-landscape.jpg" width="360"></a></td>
   </tr>
   <tr>
@@ -373,32 +373,32 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
   <tr>
     <td><a href="wallpapers/railway-crossing-evening.jpg"><img src=".gallery/e7445482605a99ef52c57e4bc74fd6458623150ae7c2cb171aac9a4addca9b46.jpg" alt="railway-crossing-evening.jpg" width="360"></a></td>
     <td><a href="wallpapers/ramy-merazka-water-lilies.png"><img src=".gallery/67a0f78d948fa0012410a3d64beccb876d92c677746525ea1eb0850e4d37bcb8.jpg" alt="ramy-merazka-water-lilies.png" width="360"></a></td>
-    <td><a href="wallpapers/saga-of-tanya-tanya.jpg"><img src=".gallery/68529cc0599702636cb26380b07d534d62588eb677e96395f18cd59030cc595f.jpg" alt="saga-of-tanya-tanya.jpg" width="360"></a></td>
+    <td><a href="wallpapers/saga-of-tanya-tanya.jpg"><img src=".gallery/db61c9c5c4de851e3439cc8c037f5390bd8e0d3a3aca09ad66ed75c3abf3fb14.jpg" alt="saga-of-tanya-tanya.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/samurai-bebop.jpg"><img src=".gallery/d0359b90cc59b665df836d4487d8f76de70825b258475d04c6d8cb0465d7789a.jpg" alt="samurai-bebop.jpg" width="360"></a></td>
-    <td><a href="wallpapers/satoru-gojo.jpg"><img src=".gallery/de1f0b688e92639e5e559d1428abcb59ae688496f7377d37e209a35bdaf8b3bc.jpg" alt="satoru-gojo.jpg" width="360"></a></td>
-    <td><a href="wallpapers/shirakami-fubuki-hololive.jpg"><img src=".gallery/2edf829165d5e45af2a8ccbf559641760444d201b75b82a3362c38c347939207.jpg" alt="shirakami-fubuki-hololive.jpg" width="360"></a></td>
+    <td><a href="wallpapers/satoru-gojo.jpg"><img src=".gallery/66f10b542691701f95a57984f8f4a68a9ef8a3ed975c20d5bf4b94ca2b1f6d0a.jpg" alt="satoru-gojo.jpg" width="360"></a></td>
+    <td><a href="wallpapers/shirakami-fubuki-hololive.jpg"><img src=".gallery/f1a596432fc2e3da026743e42579e206a08406af95dbe98e53dc32e09c49bd4a.jpg" alt="shirakami-fubuki-hololive.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/skeleton-1.jpg"><img src=".gallery/1fe219c30bb708e87c3aca856539b570f02b304d573ec3301584c77bd7ac9ef0.jpg" alt="skeleton-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/skeleton-2.jpg"><img src=".gallery/4cc5515a31c8456063b841c6382ece47b551f73080c49e7a9a6096733f6a98d1.jpg" alt="skeleton-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/skeleton-2.jpg"><img src=".gallery/fdc0b70c9fc0ea669166b9197b83f4790d985fdb0a0eadfb2b5a1f6c1c89e47e.jpg" alt="skeleton-2.jpg" width="360"></a></td>
     <td><a href="wallpapers/skeleton-with-stars.png"><img src=".gallery/cbe578a4c804053d03d0c5d67761c7d692d610c4dc3ebc5a0794a83fa360fee3.jpg" alt="skeleton-with-stars.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/sousou-no-frieren-fern.png"><img src=".gallery/33bfd8ffc1651a7abfb67de4f233262f10ac64f93a25e74cb6a5dc05d907c1d5.jpg" alt="sousou-no-frieren-fern.png" width="360"></a></td>
     <td><a href="wallpapers/sousou-no-frieren-frieren-1.jpg"><img src=".gallery/cf8caddf349739cb45232c6a88440d1d898245203da66a950e08b95760ddbd42.jpg" alt="sousou-no-frieren-frieren-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/sousou-no-frieren-frieren-2.jpg"><img src=".gallery/51cb76424013e7a2550b9d415637c7dd03db3f8768e840abcce8d30ff93261e7.jpg" alt="sousou-no-frieren-frieren-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/sousou-no-frieren-frieren-2.jpg"><img src=".gallery/03e70c189a0e65c092d0de3f0052215d4a8623836ce2d9061c0eed9f886b56ce.jpg" alt="sousou-no-frieren-frieren-2.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/sousou-no-frieren-frieren-and-fern.jpg"><img src=".gallery/1e79e1297019722a1817b18f2e4309027d37cc63152867921198dd437aee0b64.jpg" alt="sousou-no-frieren-frieren-and-fern.jpg" width="360"></a></td>
-    <td><a href="wallpapers/spongebob.jpg"><img src=".gallery/15235a99af79cd9fd0e4857ca3c41b1bc5d7391eacc4243a653ad6ca80485dcc.jpg" alt="spongebob.jpg" width="360"></a></td>
+    <td><a href="wallpapers/sousou-no-frieren-frieren-and-fern.jpg"><img src=".gallery/7065037a315c7cac0d45cad431e5612b9ab45afb6c67653af1317bd8433a714b.jpg" alt="sousou-no-frieren-frieren-and-fern.jpg" width="360"></a></td>
+    <td><a href="wallpapers/spongebob.jpg"><img src=".gallery/15d3c22a3cf6a78d7013d3712420b19cc8c4e29d11f122323c02f297b8480b72.jpg" alt="spongebob.jpg" width="360"></a></td>
     <td><a href="wallpapers/stellive-yaria.png"><img src=".gallery/1db413c4e83109157c16932840ff3f2ab88efcb131665fe23b8514377f9cfee2.jpg" alt="stellive-yaria.png" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/student-summer.jpg"><img src=".gallery/38cbf1a7a17db3f628c6c0a2bb3e9382133f585e4255ee6da87433b5489b9be6.jpg" alt="student-summer.jpg" width="360"></a></td>
-    <td><a href="wallpapers/the-crow.jpg"><img src=".gallery/46f7e6f0e5f22f2fc1812ec76d494b0cceddeec335fbab1d2dc983af91e38ad0.jpg" alt="the-crow.jpg" width="360"></a></td>
-    <td><a href="wallpapers/twilight-horizon.jpg"><img src=".gallery/45f6595ddac1a9c6fc5fe77a45610acec1caffe17786028e42e818f04e62771c.jpg" alt="twilight-horizon.jpg" width="360"></a></td>
+    <td><a href="wallpapers/the-crow.jpg"><img src=".gallery/fd829c6ed618305dd389c1e5f08d21babc18bff54959dfc0e2d39a159a287eb7.jpg" alt="the-crow.jpg" width="360"></a></td>
+    <td><a href="wallpapers/twilight-horizon.jpg"><img src=".gallery/eda69ff2dd9873de6b2326ad8fec9811a920f487af5fa7197b161df5dfd54aae.jpg" alt="twilight-horizon.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/vaping-girl.jpg"><img src=".gallery/1891dbf0ad27a055b8af7454b826b68668a90487072039acadaa83251bf925d6.jpg" alt="vaping-girl.jpg" width="360"></a></td>
@@ -408,7 +408,7 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
   <tr>
     <td><a href="wallpapers/winter.jpg"><img src=".gallery/dc65da91b472e998e6bd5ba991deea0981ba540afdd28d8f4053308eb194c854.jpg" alt="winter.jpg" width="360"></a></td>
     <td><a href="wallpapers/wuwa-camellya-1.png"><img src=".gallery/0dfb0ef816036ec995bdbd50e2012e0cd27ef69f1528fb0ba92f1f6ee33762c0.jpg" alt="wuwa-camellya-1.png" width="360"></a></td>
-    <td><a href="wallpapers/wuwa-camellya-2.jpg"><img src=".gallery/b1c7529c79d5b9eba47730c478879e0ddbdcece44892c42ce0182c2f52b89572.jpg" alt="wuwa-camellya-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/wuwa-camellya-2.jpg"><img src=".gallery/e6d9e5a58e28dadb9e78ab49d1c55c86ecc82c0be0983dad394d028d95fd510d.jpg" alt="wuwa-camellya-2.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/wuwa-carlotta-1.png"><img src=".gallery/356ee6f58e130252399243bbcb16dfabfaa513c4b95f0ff8e02c95b2a350921b.jpg" alt="wuwa-carlotta-1.png" width="360"></a></td>
@@ -416,8 +416,8 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/wuwa-chisa.png"><img src=".gallery/6419d24a5caa37520d72dfd53567d2303bc7638ca768a9feee17c0980a664ec8.jpg" alt="wuwa-chisa.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/wuwa-galbrena-1.jpg"><img src=".gallery/95514726f6f4e50123f30a79574561a57e880349682bfc255d652c2401c62225.jpg" alt="wuwa-galbrena-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/wuwa-galbrena-2.jpg"><img src=".gallery/4dfd0cac9c26025ad8de1a286c48310981611008c0bf40744ca8281918c4423f.jpg" alt="wuwa-galbrena-2.jpg" width="360"></a></td>
+    <td><a href="wallpapers/wuwa-galbrena-1.jpg"><img src=".gallery/481ac6bb27ec3bb2c8cfc59588c314062ba768a80cb0a018b4825df43748c0e8.jpg" alt="wuwa-galbrena-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/wuwa-galbrena-2.jpg"><img src=".gallery/e856231ac44ce5826b6d4d98b661eeecbb66db384c479a97792fc92287b14212.jpg" alt="wuwa-galbrena-2.jpg" width="360"></a></td>
     <td><a href="wallpapers/wuwa-luno.png"><img src=".gallery/d2ff6397efb3afc7cb25a7a51a84bcf86bb6ded1a350f211e31d539d5ab1118e.jpg" alt="wuwa-luno.png" width="360"></a></td>
   </tr>
   <tr>
@@ -426,19 +426,19 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/wuwa-phrolova-3.png"><img src=".gallery/6c568f58b59960c6e7a2160ced1d67aa67c28e5c966e5474407d01349abcd017.jpg" alt="wuwa-phrolova-3.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/wuwa-phrolova-4.png"><img src=".gallery/bb20a61cede1e30ff4bd18abd8baf86b68011d71239afc563b965f4596c684bd.jpg" alt="wuwa-phrolova-4.png" width="360"></a></td>
-    <td><a href="wallpapers/wuwa-phrolova-5.jpg"><img src=".gallery/343d3cbe954237872704358696e479ce1eefe70db6c437c5b94c782a9fc6e3de.jpg" alt="wuwa-phrolova-5.jpg" width="360"></a></td>
-    <td><a href="wallpapers/wuwa-phrolova-6.jpg"><img src=".gallery/e9e20370ed316c626e3e88204168a29a582de2ae2526c85d09c390c1d7942fc1.jpg" alt="wuwa-phrolova-6.jpg" width="360"></a></td>
+    <td><a href="wallpapers/wuwa-phrolova-4.png"><img src=".gallery/3fbe94b7ca28e38643e5f767f142ca6dba410f288f9fc56f8f8e569a159a10d7.jpg" alt="wuwa-phrolova-4.png" width="360"></a></td>
+    <td><a href="wallpapers/wuwa-phrolova-5.jpg"><img src=".gallery/a057771fc46715756a9eec08d104c03af51a176de3d7ab4d30590314fd5c13af.jpg" alt="wuwa-phrolova-5.jpg" width="360"></a></td>
+    <td><a href="wallpapers/wuwa-phrolova-6.jpg"><img src=".gallery/21def11030f8b85feccbfc277ca6c7053ac36fec0f97dbcb796c808a66fc2063.jpg" alt="wuwa-phrolova-6.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/wuwa-roccia.png"><img src=".gallery/e955eda0774009b1e672940461175ee34e33d119726c5396fda37b62a4f77f34.jpg" alt="wuwa-roccia.png" width="360"></a></td>
     <td><a href="wallpapers/wuwa-shorekeeper.png"><img src=".gallery/7054d52341b8f2df5fc210e4bd7d38e16293e432d0d40fb7241c4bfc4e2ad9db.jpg" alt="wuwa-shorekeeper.png" width="360"></a></td>
-    <td><a href="wallpapers/x-ray-girls.jpg"><img src=".gallery/49d6fbccc2b17dc2b80b44477cb18fb41168d1a70e23d347c92c541c213edd3e.jpg" alt="x-ray-girls.jpg" width="360"></a></td>
+    <td><a href="wallpapers/x-ray-girls.jpg"><img src=".gallery/076c6e0e5d52a82cc69bba024a0c0574fb10db29815a7505ec47c2384cdd8d87.jpg" alt="x-ray-girls.jpg" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/yamasakiu-1.jpg"><img src=".gallery/1c4e34e0b7176adeb057007a7ce73a3eadabc0a11a8982b12a6cb0f5c018dde1.jpg" alt="yamasakiu-1.jpg" width="360"></a></td>
-    <td><a href="wallpapers/yiming-nie-dragon-island.jpg"><img src=".gallery/324cb5ee074648a7b895834e7f20c3b42c0d2a2cfe64802e8dadbf4aa83b368a.jpg" alt="yiming-nie-dragon-island.jpg" width="360"></a></td>
-    <td><a href="wallpapers/zelda.jpg"><img src=".gallery/51c7e92f44c7fdd17e172c65a58da06e7dcb9841c645f2012d84e673503daa12.jpg" alt="zelda.jpg" width="360"></a></td>
+    <td><a href="wallpapers/yamasakiu-1.jpg"><img src=".gallery/e4b6b7e619eabaef79ab4782f4257cd9d2ec6fd4430dd77be6f28e2058acc134.jpg" alt="yamasakiu-1.jpg" width="360"></a></td>
+    <td><a href="wallpapers/yiming-nie-dragon-island.jpg"><img src=".gallery/97b83bb0925166d2d85b5b42b6a5588cff450b3ec9447868a6b510c11154e2fa.jpg" alt="yiming-nie-dragon-island.jpg" width="360"></a></td>
+    <td><a href="wallpapers/zelda.jpg"><img src=".gallery/9437302f4c01f2d4da9e1234faa3fc47197a07d394b60874858df17634e77254.jpg" alt="zelda.jpg" width="360"></a></td>
   </tr>
   <tr>
     <td><a href="wallpapers/zenless-zone-zero-burnice-white.png"><img src=".gallery/993113ee00b91384a0d472dc55b39874bc208ceb086d56e1eeb19fdb2e4d7c77.jpg" alt="zenless-zone-zero-burnice-white.png" width="360"></a></td>
@@ -451,8 +451,8 @@ curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.s
     <td><a href="wallpapers/zenless-zone-zero-ye-shunguang.png"><img src=".gallery/56c7b32e5feb283c9bd7983fc84ed5097919d4f882d0fc2659d14c137df3ffea.jpg" alt="zenless-zone-zero-ye-shunguang.png" width="360"></a></td>
   </tr>
   <tr>
-    <td><a href="wallpapers/zirancike-haiyi.jpg"><img src=".gallery/3a1662c4e76c2b530a40d71fe238a48955d96d9b2c0fd22daa6576f42d463d5f.jpg" alt="zirancike-haiyi.jpg" width="360"></a></td>
-    <td><a href="wallpapers/%E5%AE%B6%E3%81%AE%E5%89%8D%E3%81%AE%E6%96%B0%E8%81%9E.jpg"><img src=".gallery/cb950c29fed760c228371a289e93b3bd88d37d9c4db2ac14e14ce3e7808a2a7d.jpg" alt="家の前の新聞.jpg" width="360"></a></td>
+    <td><a href="wallpapers/zirancike-haiyi.jpg"><img src=".gallery/3b511e1c76499ccbdc19fb1c8e82121fd014bdc62f1fedd4010a2c72984a281d.jpg" alt="zirancike-haiyi.jpg" width="360"></a></td>
+    <td><a href="wallpapers/%E5%AE%B6%E3%81%AE%E5%89%8D%E3%81%AE%E6%96%B0%E8%81%9E.jpg"><img src=".gallery/33abfd54a3ac9915af207961592fb12daf20c333349ae285e19ce2cd03fbb927.jpg" alt="家の前の新聞.jpg" width="360"></a></td>
   </tr>
 </table>
 <!-- GALLERY:END -->
