@@ -19,3 +19,11 @@ The workflow runs after changes to originals or generator configuration on
 `main`, or manually on the selected branch. The repository must allow GitHub
 Actions to push commits to that branch. Generated commits do not match the
 workflow's path filters.
+
+To evaluate the flake module tests, pass your Nixpkgs and Home Manager sources:
+
+```sh
+nix-instantiate --eval --strict tests/flake.nix \
+  --arg nixpkgs '<nixpkgs>' \
+  --arg homeManager '(builtins.getFlake "github:nix-community/home-manager")'
+```

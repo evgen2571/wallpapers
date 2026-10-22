@@ -4,21 +4,39 @@ A collection of wallpapers I've found while surfing the internet, mostly from [W
 
 ## Installation
 
-Download the collection into `~/Pictures/Wallpapers`:
+Download to `~/Pictures/Wallpapers`:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.sh | bash
 ```
 
-To install somewhere else:
+For a different folder:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/evgen2571/wallpapers/main/install.sh | bash -s -- ~/Pictures/Custom
 ```
 
-The installer shows downloaded bytes and transfer speed, followed by an installed
-wallpaper counter. Download percentages and time estimates depend on whether
-GitHub provides the archive size.
+For Home Manager, add the flake input:
+
+```nix
+inputs.wallpapers.url = "github:evgen2571/wallpapers";
+```
+
+Import the module and turn it on in your Home Manager config (`inputs` needs
+to be in scope):
+
+```nix
+{ config, ... }: {
+  imports = [ inputs.wallpapers.homeManagerModules.default ];
+  wallpapers.enable = true;
+  # wallpapers.directory = "${config.home.homeDirectory}/Pictures/Custom";
+}
+```
+
+It's off by default. Once enabled, it links wallpapers into `~/Pictures/Wallpapers`.
+Set `wallpapers.directory` for a different folder. The links are recursive, so
+you can keep your own wallpapers alongside mine. Originals stay untouched;
+Home Manager flags conflicts if a different file already has the same name.
 
 ## Gallery
 
